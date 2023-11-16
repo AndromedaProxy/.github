@@ -1,6 +1,6 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+We+are+Ultrix!;Python+Programmer;HTML+Programmers;Linux+enthusiasts;Creators+of+Ultrix+OS+and+AI">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+We+are+Andromeda!;Javascript+Programmers;HTML+Programmers;CSS+Programmers;First+Static+Proxy;Linux+enthusiasts;Creators+of+x+OS">
 <h1 align="center">Hi, We're <a href="https://andromedaproxy.vercel.app">Andromeda</a></h1>
-<h3 align="center">Linux enthusiasts, Web Developers, and Developers of the first UV static based proxy.</h3>
+<h3 align="center">Linux enthusiasts, Web Developers, and Developers of the first UV static-based proxy.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About Andromeda</h2>
