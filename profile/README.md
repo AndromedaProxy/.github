@@ -1,4 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+We+are+Andromeda!;Javascript+Programmers;HTML+Programmers;CSS+Programmers;First+Static+Proxy;Linux+enthusiasts;Creators+of+x+OS">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+We+are+Night!;Javascript+Programmers;HTML+Programmers;CSS+Programmers;First+Static+Proxy;Linux+enthusiasts;Creators+of+x+OS">
 <h1 align="center">Hi, We're <a href="https://andromedaproxy.vercel.app">Night</a></h1>
 <h3 align="center">Linux enthusiasts, Web Developers, and Developers of the first UV static-based proxy.</h3>
 <h2>Programmer Humor</h2>
